@@ -688,7 +688,7 @@
         <input type="text" name="travel" placeholder="Enter your travel" required>
         <label for="">DATE:</label>
         <input type="date" name="date">
-        <label for="">time:</label>
+        <label for="">TIME:</label>
         <input type="time" name="time">
         <button type="submit" name="submit" value="simpan" class="btn btn-danger">submit</button>
       </form>
