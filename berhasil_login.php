@@ -32,7 +32,7 @@
         <a href="#reviews">reviews</a>
         <a href="#blogs">blogs</a>
         <a href="#subscribe">Subscribe</a>
-        <a href="#input">Contact</a>
+        <a href="#input">Contact Us</a>
     </nav>
 
     <div class="icons">
